@@ -1,7 +1,7 @@
 {
-    "pageTitle": "나만의 동물상 테스트",
-    "mainTitle": "난 무슨 동물상일까",
-    "subtitle": "얼굴로 보는 인공지능 동물상 테스트",
+    "pageTitle": "나는 무슨 어떤 학과?",
+    "mainTitle": "난 무슨 학과일까?",
+    "subtitle": "얼굴로 보는 인공지능 외고 학과 테스트",
     "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/eP_GTSsUP/ ",
@@ -24,7 +24,7 @@
             "name": "프랑스어과",
             "title": "프랑스어과",
             "explain": "프랑스어과",
-            "celeb": " 프랑스 배우 ",
+            "celeb": "프랑스 배우",
             "color": "rgba(265, 100, 50, 1)"
         }
     ]
